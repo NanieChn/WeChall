@@ -25,3 +25,4 @@ For the **level 5** :
 cd /home/level/05_privacy
 cat README.md
 ```
+Now, you can input in order these passwords without the quotes.
